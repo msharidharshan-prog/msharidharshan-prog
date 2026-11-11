@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Hari Dharshan</h1>
 
 <h3 align="center">
@@ -16,14 +15,14 @@
 - 🎓 Student from India
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 💻 Learning Data Structures and Algorithms
-- 🐍 Exploring Python and Web Development
+- 🐍 Exploring Python and Problem Solving
 - 🚀 Building projects that solve real-world problems
 - 🌱 Always learning something new!
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nextjs,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,github" />
 </p>
 
 ### 📊 GitHub Statistics
@@ -50,7 +49,6 @@
 <p align="center">
   <b>💡 Code. Learn. Build. Repeat.</b>
 </p>
-
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Consistency+is+the+key+to+success.;Keep+Learning.+Keep+Building." />
